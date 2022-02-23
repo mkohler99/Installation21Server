@@ -1,0 +1,36 @@
+socket.io needs an older version
+
+in the project directory npm install socket.io@2.4.1
+
+
+project path
+/var/www/tacobelllabs
+
+
+
+to do
+rotational movement
+armor and death
+timing out non moving players
+TD: Rendering of pickups and hazards
+pickups
+gfx states
+blink sharks
+avatars
+
+
+
+state variable map
+
+0 - Uninitalized
+1 - Normal
+2 - Doomed
+3 - Powered Up
+4 - Explosion
+
+
+how to webserver
+
+https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-20-04
+
+https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu-20-04
